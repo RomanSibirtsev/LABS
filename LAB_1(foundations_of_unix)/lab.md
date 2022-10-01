@@ -81,11 +81,11 @@ echo  "There are folder here: $(ls -l)"
 
 ### 8. Распечатка протокола
 
-![piclure](log2.png)
+![picture](log2.png)
 
 ___Запуск скрипта:___
 
-![piclure](log3.png)
+![picture](log3.png)
 
 ### 9. Выводы
 
