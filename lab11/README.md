@@ -47,7 +47,7 @@ MMMDCCCXCIXX
 ```
 ##### Ответ: 5
 
-###### Тест 2
+##### Тест 2
 ```
 CCCLXXXIX
 CMLXXI
