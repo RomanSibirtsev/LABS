@@ -40,7 +40,6 @@ result teylor(double x, int n, double eps) {
         if (res_old - res < eps) {
             A.res = res;
             A.N = i;
-            printf("%.20f", res - res_old);
             return A;
         }
     }
@@ -48,6 +47,7 @@ result teylor(double x, int n, double eps) {
     A.N = n;
     return A;
 }
+
 
 double count(double x) {
     double res;
