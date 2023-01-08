@@ -64,8 +64,8 @@ int main(void) {
     int z = kolvo(eps);
     double shag = 0.05;
     double res1, res2;
-    eps *= 0.5;
 
+    printf("%.*f\n", z, eps);
     for (double x = a; b - x + shag >= eps; x = x + shag) {  
     result res1 = teylor(x, n, eps);
     double res2 = count(x);
